@@ -3,9 +3,9 @@
 </a>
 Hey There I am Daisy,
 
-The cutest discord music bot
- - Add me to tune your community,
- - Allowing you setup music with super easy user interface 
+The cutest discord music bot.
+Add me to tune your community,
+Allowing you setup music with super easy user interface 
 
 
 ## Developer:
