@@ -13,4 +13,4 @@ Allowing you setup music with super easy user interface
 
 
 ## You can help us by Donating
- - [Patreon](patreon.com/daisybot) 
+ - [Patreon](https://patreon.com/daisybot) 
