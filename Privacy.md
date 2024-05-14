@@ -3,11 +3,11 @@ Last Updated: May 15th 2024
 
 This document outlines the privacy policy for the Discord bot This document outlines the privacy policy for the Discord bot ("Daisy") and its associated services provided by the developer. and its associated services provided by the developer.
 
-## Welcome 👋
+## Welcome
 This Privacy Policy tells you about the information we gather from users and how we handle, store, protect, or share it when you use our Service. While the full document has all the details, here's a simple summary.
 
  - **Your privacy matters to us.** We value privacy and are open about our rules.
- - **We don't trade your information. Our Service is funded by our premium subscription, so you're not a commodity.
+ - **We don't trade your information.** Our Service is funded by our premium subscription, so you're not a commodity.
  - **We only keep necessary data.** We only store what's necessary for the Service to work.
  - **You manage your information.** You can ask for a copy of your data or request its deletion at any time.
 
