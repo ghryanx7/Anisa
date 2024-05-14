@@ -1,7 +1,7 @@
 <a href = "https://discord.gg/qUVFRzZHTU">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&animation=blink&height=150&reversal=tru&width=100&theme=gruvbox&section=header&text=Avon&fontColor=15f8ef&fontSize=75&fontAlignY=39" />
+<img src="https://cdn.discordapp.com/attachments/1238004069600067706/1238461144033923102/1715342389194.jpg?ex=6644a452&is=664352d2&hm=192e74e6531a004e26f27ab9d77bc6fb08952a2942b45ab37b4903f370436479&" />
 </a>
-### [Hey There I am Daisy](https://discord.gg/qUVFRzZHTU)
+[Hey There I am Daisy](https://daisybot.carrd.co)
 
 <!-- <a href="https://discord.com/users/1136316909344796672">
 <img src="https://discord.c99.nl/widget/theme-31136316909344796672.png" alt="Discord"/>
@@ -9,9 +9,9 @@
 The cutest discord music bot
 
 
-## Developer:
+### Developer:
 [![Lovejot](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imlovejot_) 
 
 
-  ## You can help us by Donating
-  [Patreon](patreon.com/daisybot) 
+### You can help us by Donating
+ - [Patreon](patreon.com/daisybot) 
